@@ -32,4 +32,4 @@ Sample vistors include:
 
 ![Example 1](https://raw.githubusercontent.com/FreeApophis/ArithmeticParser/master/example/parsetree.png)
 
-Some Simple Tests are included, but no exhaustive test suite, the prser is intendet only as an academic example with a well designed architecture.
+Some Simple Tests are included, but no exhaustive test suite, the parser is intendet only as an academic example with a well designed architecture.
